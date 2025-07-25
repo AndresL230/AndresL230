@@ -64,7 +64,7 @@ A comprehensive full-stack web application for modern portfolio management and i
 
 ## 📫 Let's Connect!
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-lopez23/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresL230)
