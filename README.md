@@ -25,7 +25,7 @@ A comprehensive financial management application that helps users track expenses
 - 📈 Financial summaries and analytics
 - 🗓️ Custom reporting periods
 
-**Tech Stack:** `Python` `Data Analysis` `Financial Modeling`
+**Tech Stack:** `Python` `Pandas` `Matplotlib` `Data Analysis` `Financial Modeling`
 
 ### 📈 Stock Portfolio Insights (In Progress)
 A comprehensive full-stack web application for modern portfolio management and investment tracking, featuring real-time analytics and AI-powered investment recommendations.
