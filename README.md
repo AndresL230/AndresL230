@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a Finance and Computer Science student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial and data science domains.
+I'm a Computer Science and Finance student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial and data science domains.
 
 - 🔭 Currently building **Stock Portfolio Insights** - a full-stack portfolio management platform with AI recommendations
 - 💰 Built a comprehensive **Personal Financial Tracker** to help manage expenses and analyze spending patterns
