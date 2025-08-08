@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Finance+and+Computer+Science;Financial+Tech+Enthusiast;Data+Specialist;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+Finance;Financial+Tech+Enthusiast;Data+Specialist;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## 🎓 About Me
