@@ -8,7 +8,7 @@
 
 I'm a Computer Science and Finance student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
 
-- **PennApps XXVI Best Design Winner** for Noogie - a news clustering and visualization platform
+- **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
 - Currently building **Stock Portfolio Insights** - a full-stack portfolio management platform with AI recommendations
 - Built a comprehensive **Personal Financial Tracker** to help manage expenses and analyze spending patterns
 - Always learning new technologies and improving my development skills
@@ -17,7 +17,7 @@ I'm a Computer Science and Finance student at **Boston University** passionate a
 
 ## Featured Projects
 
-### Noogie - **Best Design at PennApps XXVI**
+### noogie - **Best Design at PennApps XXVI**
 A node-cluster visualization platform that collects, deduplicates, clusters, and summarizes breaking news stories from across the web to mitigate media bias and help users see the complete picture of current events.
 
 **Key Features:**
