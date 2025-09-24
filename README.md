@@ -32,38 +32,44 @@ A node-cluster visualization platform that collects, deduplicates, clusters, and
 
 **GitHub:** [View Project](https://github.com/ruslannnn2/noogie)
 
-### Stock Portfolio Insights (In Progress)
-A comprehensive full-stack web application for modern portfolio management and investment tracking, featuring real-time analytics and AI-powered investment recommendations.
+### Stock Portfolio Insights
+A modern, full-stack web application for tracking and analyzing stock portfolios with real-time performance metrics, AI-powered insights, and comprehensive portfolio analytics.
 
 **Key Features:**
 - Real-time portfolio analytics with professional data visualizations
 - AI-powered investment recommendations and risk assessment
 - Responsive React frontend with modern UI/UX design
-- RESTful Flask API with 8+ comprehensive endpoints
-- Interactive Chart.js visualizations (line, pie, bar charts)
-- Sector diversification analysis and performance tracking
-- Advanced portfolio metrics and historical tracking
+- RESTful Flask API with comprehensive endpoint coverage
+- Interactive charts showing portfolio value, sector allocation, and performance
+- Holdings management with add/remove functionality
+- Portfolio insights with diversification analysis
 
-**Tech Stack:** `React 18` `Flask` `Chart.js` `Python` `RESTful APIs` `Responsive Design`
+**Tech Stack:** `React 18` `Flask` `Python` `RESTful APIs` `Responsive Design` `Real-time Data`
 
-### Personal Financial Tracker
-A comprehensive financial management application that helps users track expenses, monitor cash flows, and generate financial summaries over custom time periods.
+**GitHub:** [View Project](https://github.com/AndresL230/portfolio-insights)
+
+### ETL Pipeline
+A robust Extract, Transform, Load (ETL) pipeline built with Python for processing and transforming data from multiple sources into a structured format suitable for analysis and storage.
 
 **Key Features:**
-- Expense tracking and categorization
-- Cash inflow/outflow monitoring  
-- Financial summaries and analytics
-- Custom reporting periods
+- Data extraction from multiple sources and formats
+- Comprehensive data transformation and cleaning operations
+- Automated data validation and quality checks
+- Scalable pipeline architecture for large datasets
+- Error handling and logging for production reliability
+- Modular design for easy maintenance and updates
 
-**Tech Stack:** `Python` `Pandas` `Matplotlib` `Data Analysis` `Financial Modeling`
+**Tech Stack:** `Python` `Pandas` `Data Processing` `ETL Architecture` `Data Validation`
+
+**GitHub:** [View Project](https://github.com/AndresL230/etl-pipeline)
 
 ## Current Focus
 
-- Developing Stock Portfolio Insights with React and Flask
-- Implementing AI-powered investment recommendations
-- Building professional data visualizations with Chart.js
+- Completed Stock Portfolio Insights - a full-stack portfolio management platform
+- Building ETL pipelines for data processing and transformation
+- Implementing AI-powered investment recommendations and analytics
 - Exploring opportunities to expand on Noogie's success
-- Looking for collaboration opportunities in fintech and news tech
+- Looking for collaboration opportunities in fintech and data engineering
 
 ## Technologies & Tools
 
