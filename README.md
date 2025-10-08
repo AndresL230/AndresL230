@@ -32,6 +32,21 @@ A node-cluster visualization platform that collects, deduplicates, clusters, and
 
 **GitHub:** [View Project](https://github.com/ruslannnn2/noogie)
 
+### Eyrie - **Best Use of Cloudflare at HackHarvard '25**
+A real-time crowd monitoring system that uses AI-powered drones to detect dangerous crowd formations and predict deadly crowd crush events before they occur, providing authorities critical minutes to respond and save lives.
+
+**Key Features:**
+- Multi-source WebRTC streaming from drones with real-time person detection overlays
+- YOLOv8 detection for tracking individuals with high-accuracy bounding boxes
+- Spatial density analysis using Gaussian kernel algorithms with normalized coordinates
+- Machine learning algorithms for predictive alerts before crush events occur
+- Interactive D3.js visualizations with risk heatmaps and time-series analytics
+- Scalable architecture supporting multiple simultaneous drone feeds
+
+**Tech Stack:** `TypeScript` `Next.js 15` `React` `D3.js` `Python` `FastAPI` `YOLOv8` `aiortc` `WebRTC` `OpenCV` `PyTorch` `Cloudflare`
+
+**GitHub:** [View Project](https://github.com/treehill05/eyrie)
+
 ### Stock Portfolio Insights
 A modern, full-stack web application for tracking and analyzing stock portfolios with real-time performance metrics, AI-powered insights, and comprehensive portfolio analytics.
 
