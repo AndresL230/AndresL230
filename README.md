@@ -18,7 +18,7 @@ I'm a Computer Science and Finance student at **Boston University** passionate a
 
 ## Featured Projects
 
-### noogie - **Best Design at PennApps XXVI**
+### noogie - **PennApps XXVI, Best Design**
 A node-cluster visualization platform that collects, deduplicates, clusters, and summarizes breaking news stories from across the web to mitigate media bias and help users see the complete picture of current events.
 
 **Key Features:**
@@ -33,7 +33,7 @@ A node-cluster visualization platform that collects, deduplicates, clusters, and
 
 **GitHub:** [View Project](https://github.com/ruslannnn2/noogie)
 
-### Eyrie - **Best Use of Cloudflare at HackHarvard '25**
+### Eyrie - **HackHarvard '25, Best Use of Cloudflare**
 A real-time crowd monitoring system that uses AI-powered drones to detect dangerous crowd formations and predict deadly crowd crush events before they occur, providing authorities critical minutes to respond and save lives.
 
 **Key Features:**
