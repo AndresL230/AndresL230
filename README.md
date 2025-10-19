@@ -81,7 +81,7 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 ## Current Focus
 
-- Completed Stock Portfolio Insights - a full-stack portfolio management platform
+- Completing Stock Portfolio Insights
 - Building ETL pipelines for data processing and transformation
 - Implementing AI-powered investment recommendations and analytics
 - Exploring opportunities to expand on Noogie's success
