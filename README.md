@@ -1,7 +1,7 @@
 # Hey there! I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+Finance;Financial+Tech+Enthusiast;Data+Specialist;2x+Hackathon+Winner;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+Finance;Tech+Enthusiast;Data+Specialist;2x+Hackathon+Winner;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## About Me
@@ -85,7 +85,7 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 - Building ETL pipelines for data processing and transformation
 - Implementing AI-powered investment recommendations and analytics
 - Exploring opportunities to expand on Noogie's success
-- Looking for collaboration opportunities in fintech and data engineering
+- Looking for collaboration opportunities in software and data engineering
 
 ## Technologies & Tools
 
