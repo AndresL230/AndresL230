@@ -110,7 +110,8 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 ## Achievements
 
-- **Best Design Winner** at PennApps XXVI (2025) for Noogie
+- **Best Design Winner** at PennApps XXVI (2025) for noogie
+- **Best Use of Cloudflare** at HackHarvard '25 for Eyrie
 - Computer Science and Finance Student at Boston University
 - Multiple full-stack projects with modern tech stacks
 
