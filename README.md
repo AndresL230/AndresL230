@@ -1,12 +1,12 @@
 # Hey there! I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+Finance;Tech+Enthusiast;Data+Specialist;2x+Hackathon+Winner;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Data+Specialist;2x+Hackathon+Winner;Always+Learning!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## About Me
 
-I'm a Computer Science and Finance student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
+I'm a Computer Science and Business student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
 
 - **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
 - **HackHarvard '25 Best Use of Cloudflare Winner** for Eyrie - a real-time crowd monitoring system that predicts crowd crush events
