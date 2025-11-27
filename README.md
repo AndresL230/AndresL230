@@ -129,7 +129,3 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndresL230&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
-
-<div align="center">
-  Open to internships and collaboration opportunities!
-</div>
