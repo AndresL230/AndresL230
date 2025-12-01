@@ -29,7 +29,7 @@ A node-cluster visualization platform that collects, deduplicates, clusters, and
 - Scalable architecture with multithreading support
 - Bias mitigation through diverse source aggregation
 
-**Tech Stack:** `TypeScript` `React` `D3.js` `Python` `Flask` `OpenAI GPT-4o` `Supabase` `FAISS` `newspaper4k`
+**Tech Stack:** `TypeScript` `React` `D3.js` `Python` `Flask` `OpenAI GPT-4o` `Supabase` `FAISS` 
 
 **GitHub:** [View Project](https://github.com/ruslannnn2/noogie)
 
@@ -60,7 +60,7 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 - Holdings management with add/remove functionality
 - Portfolio insights with diversification analysis
 
-**Tech Stack:** `React 18` `Flask` `Python` `RESTful APIs` `Responsive Design` `Real-time Data`
+**Tech Stack:** `React 18` `Flask` `Python` `RESTful APIs` `Responsive Design` 
 
 **GitHub:** [View Project](https://github.com/AndresL230/portfolio-insights)
 
