@@ -81,10 +81,9 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 ## Current Focus
 
-- Completing Stock Portfolio Insights
-- Building ETL pipelines for data processing and transformation
-- Implementing AI-powered investment recommendations and analytics
-- Exploring opportunities to expand on Noogie's success
+- Completing ETL pipeline for data processing and transformation
+- Exploring and contributing to open source projects
+- Learning more about machine learning and its applications
 - Looking for collaboration opportunities in software and data engineering
 
 ## Technologies & Tools
