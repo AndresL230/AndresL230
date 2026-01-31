@@ -81,9 +81,9 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 ## Current Focus
 
+- Learning more about machine learning and its applications
 - Completing ETL pipeline for data processing and transformation
 - Exploring and contributing to open source projects
-- Learning more about machine learning and its applications
 - Looking for collaboration opportunities in software and data engineering
 
 ## Technologies & Tools
