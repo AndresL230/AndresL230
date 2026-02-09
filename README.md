@@ -10,7 +10,6 @@ I'm a Computer Science and Business student at **Boston University** passionate 
 
 - **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
 - **HackHarvard '25 Best Use of Cloudflare Winner** for Eyrie - a real-time crowd monitoring system that predicts crowd crush events
-- Currently building **Stock Portfolio Insights** - a full-stack portfolio management platform with AI recommendations
 - Built a comprehensive **Personal Financial Tracker** to help manage expenses and analyze spending patterns
 - Always learning new technologies and improving my development skills
 - Based in Boston, MA
