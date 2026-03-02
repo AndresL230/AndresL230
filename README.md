@@ -1,21 +1,55 @@
 # Hey there! I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;3x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;4x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## About Me
 
 I'm a Computer Science and Business student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
 
+- **HackIllinois '26 Best Web API Winner (Stripe Track)** for EcoAPI - a developer tool for analyzing API usage, estimating cost, and optimizing resource consumption for more sustainable software
+- **CivicHacks BU AI Tutor Track Winner** for Sapling - an AI-powered study companion with live knowledge graphs
 - **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
 - **HackHarvard '25 Best Use of Cloudflare Winner** for Eyrie - a real-time crowd monitoring system that predicts crowd crush events
-- Built a comprehensive **Personal Financial Tracker** to help manage expenses and analyze spending patterns
+- Built a robust **ETL Pipeline** for processing and transforming data from multiple sources
 - Always learning new technologies and improving my development skills
 - Based in Boston, MA
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/andres-lopez23/)
 
 ## Featured Projects
+
+### EcoAPI - **HackIllinois '26, Best Web API (Stripe Track)**
+A developer tool for analyzing codebase API usage, estimating cost, detecting inefficiencies, and generating optimization suggestions. Featuring a REST API, VS Code extension for in-editor analysis, and an interactive dashboard for visualizing API spend and risk. EcoAPI won the Stripe-sponsored Best Web API track, the second-largest sponsor track at UIUC's flagship hackathon with 677 participants.
+
+**Key Features:**
+- VS Code extension for real-time API usage detection and cost analysis directly in the editor
+- Interactive dashboard with D3.js visualizations for API spend, risk heatmaps, and optimization insights
+- Cost analytics engine with provider-specific pricing models for Stripe, OpenAI, Twilio, and more
+- Endpoint-level risk assessment and status classification with cacheable pattern detection
+- Automated optimization suggestions with estimated savings calculations
+- D3.js-ready graph data with provider-based clustering
+- Comprehensive error handling with field-level validation and consistent error shapes
+- Resource-oriented REST architecture with pagination, sorting, and filtering
+
+**Tech Stack:** `TypeScript` `Node.js` `Express` `REST APIs` `VS Code Extension API` `D3.js` `Cloudflare Workers`
+
+**GitHub:** [View Project](https://github.com/AndresL230/ecoapi) | **Devpost:** [View Submission](https://devpost.com/software/ecoapi)
+
+### Sapling - **CivicHacks BU, AI Tutor Track Winner**
+An AI-powered study companion that builds a live knowledge graph as you learn. Chat with an AI tutor across three teaching modes, take adaptive quizzes, track assignments from your syllabus, and compare progress with classmates in study rooms.
+
+**Key Features:**
+- Live knowledge graph that grows as you learn new concepts
+- Three AI teaching modes for personalized tutoring experiences
+- Adaptive quiz generation based on your current understanding
+- Syllabus parsing with automatic assignment tracking and calendar integration
+- Social study rooms for comparing progress with classmates
+- Built with Google Gemini for intelligent tutoring responses
+
+**Tech Stack:** `TypeScript` `Next.js` `React` `Python` `FastAPI` `Google Gemini` `SQLite` `D3.js`
+
+**GitHub:** [View Project](https://github.com/Jose-Gael-Cruz-Lopez/sapling) | **Devpost:** [View Submission](https://devpost.com/software/sapling-f3wy8k)
 
 ### noogie - **PennApps XXVI, Best Design**
 A node-cluster visualization platform that collects, deduplicates, clusters, and summarizes breaking news stories from across the web to mitigate media bias and help users see the complete picture of current events.
@@ -30,7 +64,7 @@ A node-cluster visualization platform that collects, deduplicates, clusters, and
 
 **Tech Stack:** `TypeScript` `React` `D3.js` `Python` `Flask` `OpenAI GPT-4o` `Supabase` `FAISS` 
 
-**GitHub:** [View Project](https://github.com/ruslannnn2/noogie)
+**GitHub:** [View Project](https://github.com/ruslannnn2/noogie) | **Devpost:** [View Submission](https://devpost.com/software/noogie)
 
 ### Eyrie - **HackHarvard '25, Best Use of Cloudflare**
 A real-time crowd monitoring system that uses AI-powered drones to detect dangerous crowd formations and predict deadly crowd crush events before they occur, providing authorities critical minutes to respond and save lives.
@@ -45,7 +79,22 @@ A real-time crowd monitoring system that uses AI-powered drones to detect danger
 
 **Tech Stack:** `TypeScript` `Next.js 15` `React` `D3.js` `Python` `FastAPI` `YOLOv8` `aiortc` `WebRTC` `OpenCV` `PyTorch` `Cloudflare`
 
-**GitHub:** [View Project](https://github.com/treehill05/eyrie)
+**GitHub:** [View Project](https://github.com/treehill05/eyrie) | **Devpost:** [View Submission](https://devpost.com/software/eyrie-idxhj8)
+
+### ETL Pipeline
+A robust Extract, Transform, Load (ETL) pipeline built with Python for processing and transforming data from multiple sources into a structured format suitable for analysis and storage.
+
+**Key Features:**
+- Data extraction from multiple sources and formats
+- Comprehensive data transformation and cleaning operations
+- Automated data validation and quality checks
+- Scalable pipeline architecture for large datasets
+- Error handling and logging for production reliability
+- Modular design for easy maintenance and updates
+
+**Tech Stack:** `Python` `Pandas` `Data Processing` `ETL Architecture` `Data Validation`
+
+**GitHub:** [View Project](https://github.com/AndresL230/etl-pipeline)
 
 ### Stock Portfolio Insights
 A modern, full-stack web application for tracking and analyzing stock portfolios with real-time performance metrics, AI-powered insights, and comprehensive portfolio analytics.
@@ -63,26 +112,11 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 
 **GitHub:** [View Project](https://github.com/AndresL230/portfolio-insights)
 
-### ETL Pipeline
-A robust Extract, Transform, Load (ETL) pipeline built with Python for processing and transforming data from multiple sources into a structured format suitable for analysis and storage.
-
-**Key Features:**
-- Data extraction from multiple sources and formats
-- Comprehensive data transformation and cleaning operations
-- Automated data validation and quality checks
-- Scalable pipeline architecture for large datasets
-- Error handling and logging for production reliability
-- Modular design for easy maintenance and updates
-
-**Tech Stack:** `Python` `Pandas` `Data Processing` `ETL Architecture` `Data Validation`
-
-**GitHub:** [View Project](https://github.com/AndresL230/etl-pipeline)
-
 ## Current Focus
 
+- Building out Sapling Learn for my school to use
+- Open sourcing EcoAPI for the developer community
 - Learning more about machine learning and its applications
-- Completing ETL pipeline for data processing and transformation
-- Exploring and contributing to open source projects
 - Looking for collaboration opportunities in software and data engineering
 
 ## Technologies & Tools
@@ -108,9 +142,11 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 ## Achievements
 
+- **Best Web API (Stripe Track)** at HackIllinois '26 for EcoAPI
+- **AI Tutor Track Winner** at CivicHacks BU for Sapling
 - **Best Design Winner** at PennApps XXVI (2025) for noogie
 - **Best Use of Cloudflare** at HackHarvard '25 for Eyrie
-- Computer Science and Finance Student at Boston University
+- Computer Science and Business Student at Boston University
 - Multiple full-stack projects with modern tech stacks
 
 ## Let's Connect!
@@ -119,6 +155,8 @@ A robust Extract, Transform, Load (ETL) pipeline built with Python for processin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-lopez23/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndresL230)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/AndresL230)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andresl.dev)
 
 </div>
 
