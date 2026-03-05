@@ -17,6 +17,12 @@ I'm a Computer Science and Business student at **Boston University** passionate 
 - Based in Boston, MA
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/andres-lopez23/)
 
+## Current Focus
+- Open sourcing EcoAPI for the developer community
+- Building out Sapling Learn for my school to use
+- Learning more about machine learning and its applications
+- Looking for collaboration opportunities in software and data engineering
+
 ## Featured Projects
 
 ### EcoAPI - **HackIllinois '26, Best Web API (Stripe Track)**
@@ -111,13 +117,6 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 **Tech Stack:** `React 18` `Flask` `Python` `RESTful APIs` `Responsive Design` 
 
 **GitHub:** [View Project](https://github.com/AndresL230/portfolio-insights)
-
-## Current Focus
-
-- Building out Sapling Learn for my school to use
-- Open sourcing EcoAPI for the developer community
-- Learning more about machine learning and its applications
-- Looking for collaboration opportunities in software and data engineering
 
 ## Technologies & Tools
 
