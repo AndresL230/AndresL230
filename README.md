@@ -8,7 +8,7 @@
 
 I'm a Computer Science and Business student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
 
-- **HackIllinois '26 Best Web API Winner (Stripe Track)** for EcoAPI - a developer tool for analyzing API usage, estimating cost, and optimizing resource consumption for more sustainable software
+- **HackIllinois '26 Best Web API Winner (Stripe Track)** for ReCost(Formerly EcoAPI) - a developer tool for analyzing API usage, estimating cost, and optimizing resource consumption for more sustainable software
 - **CivicHacks BU AI Tutor Track Winner** for Sapling - an AI-powered study companion with live knowledge graphs
 - **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
 - **HackHarvard '25 Best Use of Cloudflare Winner** for Eyrie - a real-time crowd monitoring system that predicts crowd crush events
@@ -18,15 +18,15 @@ I'm a Computer Science and Business student at **Boston University** passionate 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/andres-lopez23/)
 
 ## Current Focus
-- Open sourcing EcoAPI for the developer community
-- Building out Sapling Learn for my school to use
+- Open sourcing ReCost for the developer community
+- Building out Sapling Learn for closed beta
 - Learning more about machine learning and its applications
 - Looking for collaboration opportunities in software and data engineering
 
 ## Featured Projects
 
-### EcoAPI - **HackIllinois '26, Best Web API (Stripe Track)**
-A developer tool for analyzing codebase API usage, estimating cost, detecting inefficiencies, and generating optimization suggestions. Featuring a REST API, VS Code extension for in-editor analysis, and an interactive dashboard for visualizing API spend and risk. EcoAPI won the Stripe-sponsored Best Web API track, the second-largest sponsor track at UIUC's flagship hackathon with 677 participants.
+### ReCost(EcoAPI) - **HackIllinois '26, Best Web API (Stripe Track)**
+A developer tool for analyzing codebase API usage, estimating cost, detecting inefficiencies, and generating optimization suggestions. Featuring a REST API, VS Code extension for in-editor analysis, and an interactive dashboard for visualizing API spend and risk. ReCost(EcoAPI) won the Stripe-sponsored Best Web API track, the second-largest sponsor track at UIUC's flagship hackathon with 677 participants.
 
 **Key Features:**
 - VS Code extension for real-time API usage detection and cost analysis directly in the editor
@@ -141,7 +141,7 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 
 ## Achievements
 
-- **Best Web API (Stripe Track)** at HackIllinois '26 for EcoAPI
+- **Best Web API (Stripe Track)** at HackIllinois '26 for ReCost(EcoAPI)
 - **AI Tutor Track Winner** at CivicHacks BU for Sapling
 - **Best Design Winner** at PennApps XXVI (2025) for noogie
 - **Best Use of Cloudflare** at HackHarvard '25 for Eyrie
