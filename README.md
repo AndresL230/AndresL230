@@ -160,7 +160,3 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndresL230&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
