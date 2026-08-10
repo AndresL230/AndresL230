@@ -1,122 +1,88 @@
 # Hey there! I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;4x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;AI%2FML+Fellow;4x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## About Me
 
-I'm a Computer Science and Business student at **Boston University** passionate about building practical solutions that make a difference. I love combining technology with real-world applications, especially in the financial, data science, and news technology domains.
+I'm a Computer Science student at **Boston University**, class of 2028, and I build things people actually use. Right now I'm engineering payments and AI document-extraction infrastructure at an early-stage startup, and studying machine learning through Cornell Tech's Break Through Tech program.
 
-- **HackIllinois '26 Best Web API Winner (Stripe Track)** for ReCost(Formerly EcoAPI) - a developer tool for analyzing API usage, estimating cost, and optimizing resource consumption for more sustainable software
-- **CivicHacks BU AI Tutor Track Winner** for Sapling - an AI-powered study companion with live knowledge graphs
-- **PennApps XXVI Best Design Winner** for noogie - a news clustering and visualization platform
-- **HackHarvard '25 Best Use of Cloudflare Winner** for Eyrie - a real-time crowd monitoring system that predicts crowd crush events
-- Built a robust **ETL Pipeline** for processing and transforming data from multiple sources
-- Always learning new technologies and improving my development skills
-- Based in Boston, MA
+- Currently engineering at **Grove Tax**, working on payments infra and AI document extraction
+- **AI/ML Fellow** at Break Through Tech @ Cornell Tech, and backend at **Hack4Impact BU**
+- Previously co-founded **Recost**, an API cost-intelligence platform
+- Eagle Scout · based in Boston, MA
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/andres-lopez23/)
 
 ## Current Focus
-- Open sourcing ReCost for the developer community
-- Building out Sapling Learn for closed beta
-- Learning more about machine learning and its applications
-- Looking for collaboration opportunities in software and data engineering
+
+- Shipping payments and AI extraction infrastructure at Grove Tax
+- Building out **Sapling Learn**, now in closed beta at BU, with a pitch at the Neurotech Frontiers Summit this fall
+- Deepening my ML work through the Break Through Tech industry challenge project
+- Interested in developer tooling, fintech infrastructure, and anything where correctness actually matters
 
 ## Featured Projects
 
-### ReCost(EcoAPI) - **HackIllinois '26, Best Web API (Stripe Track)**
-A developer tool for analyzing codebase API usage, estimating cost, detecting inefficiencies, and generating optimization suggestions. Featuring a REST API, VS Code extension for in-editor analysis, and an interactive dashboard for visualizing API spend and risk. ReCost(EcoAPI) won the Stripe-sponsored Best Web API track, the second-largest sponsor track at UIUC's flagship hackathon with 677 participants.
+### Sapling | **CivicHacks BU '26, AI Tutor Track Winner**
+An AI study platform that builds a live knowledge graph as you learn. Three tutoring modes (Socratic, Expository, Teach-back), adaptive quizzes driven by per-concept mastery data, syllabus-to-assignment extraction, and study rooms for comparing progress with classmates. Currently in closed beta at BU.
 
-**Key Features:**
-- VS Code extension for real-time API usage detection and cost analysis directly in the editor
-- Interactive dashboard with D3.js visualizations for API spend, risk heatmaps, and optimization insights
-- Cost analytics engine with provider-specific pricing models for Stripe, OpenAI, Twilio, and more
-- Endpoint-level risk assessment and status classification with cacheable pattern detection
-- Automated optimization suggestions with estimated savings calculations
-- D3.js-ready graph data with provider-based clustering
-- Comprehensive error handling with field-level validation and consistent error shapes
-- Resource-oriented REST architecture with pagination, sorting, and filtering
-
-**Tech Stack:** `TypeScript` `Node.js` `Express` `REST APIs` `VS Code Extension API` `D3.js` `Cloudflare Workers`
-
-**GitHub:** [View Project](https://github.com/AndresL230/ecoapi) | **Devpost:** [View Submission](https://devpost.com/software/ecoapi)
-
-### Sapling - **CivicHacks BU, AI Tutor Track Winner**
-An AI-powered study companion that builds a live knowledge graph as you learn. Chat with an AI tutor across three teaching modes, take adaptive quizzes, track assignments from your syllabus, and compare progress with classmates in study rooms.
+**Scale:** 166 API endpoints · 47-table Postgres schema · 18 LLM agents · 1,050+ tests
 
 **Key Features:**
 - Live knowledge graph that grows as you learn new concepts
-- Three AI teaching modes for personalized tutoring experiences
-- Adaptive quiz generation based on your current understanding
+- Adaptive quiz generation from per-concept mastery data
 - Syllabus parsing with automatic assignment tracking and calendar integration
-- Social study rooms for comparing progress with classmates
-- Built with Google Gemini for intelligent tutoring responses
+- Study rooms for comparing progress with classmates
+- Application-layer AES-256-GCM encryption on sensitive columns, with numeric-preserving decryption for grades
 
-**Tech Stack:** `TypeScript` `Next.js` `React` `Python` `FastAPI` `Google Gemini` `SQLite` `D3.js`
+**Tech Stack:** `TypeScript` `Next.js` `React` `Python` `FastAPI` `Google Gemini` `PostgreSQL` `Supabase` `D3.js`
 
-**GitHub:** [View Project](https://github.com/Jose-Gael-Cruz-Lopez/sapling) | **Devpost:** [View Submission](https://devpost.com/software/sapling-f3wy8k)
+**Live:** [saplinglearn.com](https://saplinglearn.com) | **GitHub:** [View Project](https://github.com/Jose-Gael-Cruz-Lopez/sapling) | **Devpost:** [View Submission](https://devpost.com/software/sapling-f3wy8k)
 
-### noogie - **PennApps XXVI, Best Design**
-A node-cluster visualization platform that collects, deduplicates, clusters, and summarizes breaking news stories from across the web to mitigate media bias and help users see the complete picture of current events.
+### Recost | **HackIllinois '26, Best Web API (Stripe Track)**
+An API cost-intelligence platform for developers: analyze codebase API usage, estimate cost, detect inefficiencies, and generate optimization suggestions. Co-founded and incorporated as a Delaware C-corp with a 3-person team; launched on Product Hunt. Won the Stripe-sponsored Best Web API track, the second-largest sponsor track at UIUC's flagship hackathon (677 participants).
+
+**Key Features:**
+- Serverless REST API with 30+ endpoints on Cloudflare Workers (Hono, D1), Google OAuth, API key management, KV-based rate limiting
+- VS Code extension using web-tree-sitter to parse JS/TS/Python and detect N+1 hotspots, batching and caching opportunities, and cross-file call origins
+- Node.js and Python SDKs intercepting outbound HTTP at runtime to capture cost and latency telemetry across 8+ providers
+- Interactive dashboard with D3.js visualizations for API spend, risk heatmaps, and optimization insights
+- Endpoint-level risk assessment with cacheable pattern detection and estimated savings calculations
+
+**Tech Stack:** `TypeScript` `Cloudflare Workers` `Hono` `D1` `KV` `React` `D3.js` `VS Code Extension API` `Tree-sitter`
+
+**GitHub:** [View Project](https://github.com/recost-dev) | **Devpost:** [View Submission](https://devpost.com/software/ecoapi)
+
+### noogie | **PennApps XXVI, Best Design**
+A node-cluster visualization platform that collects, deduplicates, clusters, and summarizes breaking news from across the web to mitigate media bias and show the complete picture of an event.
 
 **Key Features:**
 - Multi-source news collection via RSS feeds and web scraping
 - Smart deduplication using sentence embeddings and FAISS vector indexing
 - AI-powered clustering and headline generation with OpenAI GPT-4o
 - Interactive D3.js node visualization for exploring news clusters
-- Scalable architecture with multithreading support
-- Bias mitigation through diverse source aggregation
 
-**Tech Stack:** `TypeScript` `React` `D3.js` `Python` `Flask` `OpenAI GPT-4o` `Supabase` `FAISS` 
+**Tech Stack:** `TypeScript` `React` `D3.js` `Python` `Flask` `OpenAI GPT-4o` `Supabase` `FAISS`
 
 **GitHub:** [View Project](https://github.com/ruslannnn2/noogie) | **Devpost:** [View Submission](https://devpost.com/software/noogie)
 
-### Eyrie - **HackHarvard '25, Best Use of Cloudflare**
-A real-time crowd monitoring system that uses AI-powered drones to detect dangerous crowd formations and predict deadly crowd crush events before they occur, providing authorities critical minutes to respond and save lives.
+### Eyrie | **HackHarvard '25, Best Use of Cloudflare**
+A real-time crowd monitoring system using AI-powered drones to detect dangerous crowd formations and predict crowd crush events before they occur, giving authorities critical minutes to respond.
 
 **Key Features:**
 - Multi-source WebRTC streaming from drones with real-time person detection overlays
-- YOLOv8 detection for tracking individuals with high-accuracy bounding boxes
+- YOLOv8 detection with high-accuracy bounding boxes
 - Spatial density analysis using Gaussian kernel algorithms with normalized coordinates
-- Machine learning algorithms for predictive alerts before crush events occur
-- Interactive D3.js visualizations with risk heatmaps and time-series analytics
-- Scalable architecture supporting multiple simultaneous drone feeds
+- Predictive alerts and interactive D3.js risk heatmaps with time-series analytics
 
-**Tech Stack:** `TypeScript` `Next.js 15` `React` `D3.js` `Python` `FastAPI` `YOLOv8` `aiortc` `WebRTC` `OpenCV` `PyTorch` `Cloudflare`
+**Tech Stack:** `TypeScript` `Next.js` `React` `D3.js` `Python` `FastAPI` `YOLOv8` `aiortc` `WebRTC` `OpenCV` `PyTorch` `Cloudflare`
 
 **GitHub:** [View Project](https://github.com/treehill05/eyrie) | **Devpost:** [View Submission](https://devpost.com/software/eyrie-idxhj8)
 
-### ETL Pipeline
-A robust Extract, Transform, Load (ETL) pipeline built with Python for processing and transforming data from multiple sources into a structured format suitable for analysis and storage.
-
-**Key Features:**
-- Data extraction from multiple sources and formats
-- Comprehensive data transformation and cleaning operations
-- Automated data validation and quality checks
-- Scalable pipeline architecture for large datasets
-- Error handling and logging for production reliability
-- Modular design for easy maintenance and updates
-
-**Tech Stack:** `Python` `Pandas` `Data Processing` `ETL Architecture` `Data Validation`
-
-**GitHub:** [View Project](https://github.com/AndresL230/etl-pipeline)
-
-### Stock Portfolio Insights
-A modern, full-stack web application for tracking and analyzing stock portfolios with real-time performance metrics, AI-powered insights, and comprehensive portfolio analytics.
-
-**Key Features:**
-- Real-time portfolio analytics with professional data visualizations
-- AI-powered investment recommendations and risk assessment
-- Responsive React frontend with modern UI/UX design
-- RESTful Flask API with comprehensive endpoint coverage
-- Interactive charts showing portfolio value, sector allocation, and performance
-- Holdings management with add/remove functionality
-- Portfolio insights with diversification analysis
-
-**Tech Stack:** `React 18` `Flask` `Python` `RESTful APIs` `Responsive Design` 
-
-**GitHub:** [View Project](https://github.com/AndresL230/portfolio-insights)
+### Also worth a look
+- **[TaxForm Automation](https://github.com/AndresL230/taxform_automation)**: Gemini-powered extraction for W-2 and 1099-NEC/INT/DIV forms, built on Cloudflare Workers with source highlighting, arithmetic validation, and an audit trail. `React` `TypeScript` `Vite` `Cloudflare Workers`
+- **[ETL Pipeline](https://github.com/AndresL230/etl-pipeline)**: modular Python ETL with automated validation, quality checks, and production logging. `Python` `Pandas`
+- **[Stock Portfolio Insights](https://github.com/AndresL230/portfolio-insights)**: full-stack portfolio tracker with real-time analytics and AI-generated risk assessment. `React` `Flask` `Python`
 
 ## Technologies & Tools
 
@@ -124,29 +90,44 @@ A modern, full-stack web application for tracking and analyzing stock portfolios
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </div>
 
+Also working with: Model Context Protocol (MCP), RAG + FAISS, model evaluation, Tree-sitter, Apache Airflow, WebRTC, Hono.
+
 ## Achievements
 
-- **Best Web API (Stripe Track)** at HackIllinois '26 for ReCost(EcoAPI)
-- **AI Tutor Track Winner** at CivicHacks BU for Sapling
-- **Best Design Winner** at PennApps XXVI (2025) for noogie
-- **Best Use of Cloudflare** at HackHarvard '25 for Eyrie
-- Computer Science and Business Student at Boston University
-- Multiple full-stack projects with modern tech stacks
+- **Best Web API (Stripe Track)** | HackIllinois '26 | Recost
+- **AI Tutor Track Winner** | CivicHacks BU '26 | Sapling
+- **Best Design** | PennApps XXVI | noogie
+- **Best Use of Cloudflare** | HackHarvard '25 | Eyrie
+- Eagle Scout · HSF Scholar · MLT Career Prep Fellow · SEO Edge · Dean's List
 
 ## Let's Connect!
 
