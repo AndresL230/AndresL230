@@ -9,8 +9,7 @@
 I'm a Computer Science student at **Boston University**, class of 2028, and I build things people actually use. Right now I'm engineering payments and AI document-extraction infrastructure at an early-stage startup, and studying machine learning through Cornell Tech's Break Through Tech program.
 
 - Currently engineering at **Grove Tax**, working on payments infra and AI document extraction
-- **AI/ML Fellow** at Break Through Tech @ Cornell Tech, and backend at **Hack4Impact BU**
-- Previously co-founded **Recost**, an API cost-intelligence platform
+- Backend SWE at **Hack4Impact BU**
 - Eagle Scout · based in Boston, MA
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/andres-lopez23/)
 
