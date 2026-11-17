@@ -1,7 +1,7 @@
 # Hey there! I'm Andres Lopez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;AI%2FML+Fellow;4x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science;Business;Software+Engineer;5x+Hackathon+Winner;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ## About Me
